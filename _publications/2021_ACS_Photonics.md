@@ -1,7 +1,7 @@
 ---
 title: "Edge-Emitting Silicon Nanocrystal Distributed Feedback Laser with Extremely Low Exciton Threshold"
 collection: publications
-permalink: /publication/2021ACS_Photonics
+permalink: /publication/2021_ACS_Photonics
 excerpt: 'Silicon Emitters and Lasers'
 date: April 7, 2021
 venue: 'ACS Photonics'
