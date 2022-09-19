@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Wang Feilong / Site Title"
+locale                   : "zh_CN.UTF-8"
+title                    : "Wang Feilong / introduction"
 title_separator          : "-"
 name                     : &name "Wang Feilong"
-description              : &description "personal description"
+description              : &description "exploring the innovation of science. (探索科学中的创新)"
 url                      : "https://flwang1998.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://flwang1998.github.io" #academicpages/academicpages.github.io
