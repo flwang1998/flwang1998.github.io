@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh_CN.UTF-8"
-title                    : "Wang Feilong (王飞龙) / introduction"
+title                    : "Wang Feilong (王飞龙) / Introduction"
 title_separator          : "-"
 name                     : &name "Wang Feilong"
 description              : &description "exploring the innovation of science. (探索科学中的创新)"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wang Feilong王飞龙"
+  name             : "Wang Feilong (王飞龙)"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "exploring the innovation of science. (探索科学中的创新)"
+  location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+#  googlescholar    : ""
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Feilong-Wang-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+#  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6216-5466"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
+  csdn             : "https://blog.csdn.net/weixin_45973682?type=blog"
   vine             :
   weibo            :
   xing             :
