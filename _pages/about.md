@@ -14,6 +14,7 @@ Currently engaged in the first principle calculation of photoelectric and cataly
 * Lanthanide luminous clusters.
 * Hydrogen evolution properties of transition metal monoatom and clusters.
 * Material design of high hydrogen desorption without transition metal elements.
+
 In a word, resolveing electronic structure in the Kohn-Sham framework.
 
 Skills
