@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &csdn
+#twitter:
+#  username               : &csdn
 facebook:
   username               :
   app_id                 :
@@ -110,7 +110,7 @@ author:
   steam            :
   tumblr           :
 #  twitter          : "replacethistwitterhandle"
-  csdn             : "https://blog.csdn.net/weixin_45973682?type=blog"
+#  csdn             : "https://blog.csdn.net/weixin_45973682?type=blog"
   vine             :
   weibo            :
   xing             :
