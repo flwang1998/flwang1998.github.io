@@ -85,7 +85,7 @@ author:
   bio              : "exploring the innovation of science. (探索科学中的创新)"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : ""
   email            :
   researchgate     : "https://www.researchgate.net/profile/Feilong-Wang-3"
