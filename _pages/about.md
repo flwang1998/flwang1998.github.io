@@ -15,7 +15,7 @@ Currently engaged in the first principle calculation of photoelectric and cataly
 * Hydrogen evolution properties of transition metal monoatom and clusters.
 * Material design of high hydrogen desorption without transition metal elements.
 
-In a word, resolveing electronic structure in the Kohn-Sham framework.
+In a word, resolving electronic structure in the Kohn-Sham framework.
 
 Skills
 ======
