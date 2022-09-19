@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_ACS_Photonics
 excerpt: 'Silicon Emitters and Lasers'
 date: April 7, 2021
-venue: $\rm{\color{green}{ACS Photonics}}$
+venue: $\rm{\color{green}{ACS\ Photonics}}$
 paperurl: 'https://pubs.acs.org/doi/10.1021/acsphotonics.0c01846'
 citation: P. Zeng*, $\rm{\color{red}{F. Wang}}$*, Y. Zhang, W. Zhou, Z. Guo, X. Wu, M. Lu, and S. Zhang, Edge-Emitting Silicon Nanocrystal Distributed Feedback Laser with Extremely Low Exciton Threshold, ACS Photonics 8, 1353 (2021).
 ---
