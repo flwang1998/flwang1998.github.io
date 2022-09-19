@@ -2,9 +2,9 @@
 title: "Localized State-Induced Enhanced Intrinsic Phonon-Free Optical Transition in Silicon Nanocrystals"
 collection: publications
 permalink: /publication/2022_arixv
-excerpt: 'Silicon Emitters and Lasers'
+excerpt: $\color{Tan}{Silicon\ Emitters\ and\ Lasers}$
 date: Sep 16, 2022
-venue: 'preprint in arXiv'
+venue: $\rm{\color{green}{preprint\ in\ arXiv}}$
 paperurl: 'https://doi.org/10.48550/arXiv.2209.07747'
 citation: $\rm{\color{red}{F. Wang}}$, Q. Ou, and S. Zhang, Localized State-Induced Enhanced Intrinsic Phonon-Free Optical Transition in Silicon Nanocrystals, arXiv:2209.07747.
 ---
