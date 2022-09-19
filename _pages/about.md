@@ -29,7 +29,7 @@ Skills
 Study experience
 ======
 * 2019.9-today, Fudan University for Ph.D. degree. School of Information Science and Engineering
-* 2015.9-2016.6, Soochow University for bachelor degree. School of Optoelectronic Science and Engineering
+* 2015.9-2019.6, Soochow University for bachelor degree. School of Optoelectronic Science and Engineering
 
 Thanks
 ======
