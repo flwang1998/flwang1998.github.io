@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh_CN.UTF-8"
-title                    : "Wang Feilong / introduction"
+title                    : "Wang Feilong (王飞龙) / introduction"
 title_separator          : "-"
 name                     : &name "Wang Feilong"
 description              : &description "exploring the innovation of science. (探索科学中的创新)"
