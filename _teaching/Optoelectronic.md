@@ -8,7 +8,6 @@ permalink: /teaching/Optoelectronic.md
 * Nanoimprint lithography technology.
 * Inductively coupled plasma (ICP) etching technology
 * Performance test of light-emitting devices, i.e., EQE.
-
 Main simulation software：
 * COMSOL
 * Matlab
