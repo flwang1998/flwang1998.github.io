@@ -9,7 +9,7 @@ permalink: /teaching/Optoelectronic.md
 * Inductively coupled plasma (ICP) etching technology
 * Performance test of light-emitting devices, i.e., EQE.
 
-Main simulation software：
+Main simulation software:
 * COMSOL
 * Matlab
 * python
