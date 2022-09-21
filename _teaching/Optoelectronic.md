@@ -13,12 +13,3 @@ date: 2022-01-01
 * Matlab
 * python
 * mathematica
-
-Photoelectric simulation of plasmon.
-======
-
-Photonic crystal simulation.
-======
-
-Nanoimprint lithography technology
-======
