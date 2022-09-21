@@ -1,4 +1,8 @@
-# First principles calculation with physics, chemistry and material science
+---
+title: "First principles calculation with physics, chemistry and material science"
+collection: DFT
+date: 2022-01-01
+---
 * Quantum chemistry with clusters.
 * First principles with bulk.
 * Luminescence physics.
@@ -9,8 +13,7 @@
 * Excited state physics.
 * Chemical reaction barrier.
 * Physicochemical mechanism of electrocatalytic reaction.
-
-# Calculation software and computer language mainly but not completely include:
+### Calculation software and computer language mainly but not completely include:
 * Gaussian
 * ORCA
 * VASP
