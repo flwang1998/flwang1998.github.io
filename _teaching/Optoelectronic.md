@@ -1,4 +1,9 @@
-
+---
+title: "Optoelectronic Devices and Simulation"
+collection: Optoelectronics
+permalink: /teaching/Optoelectronic.md
+date: 2022
+---
 * Photoelectric simulation of plasmon.
 * Photonic crystal simulation.
 * Nanoimprint lithography technology.
